@@ -12,12 +12,12 @@ import java.util.regex.Pattern;
 public class Bot extends TelegramLongPollingBot {
     @Override
     public String getBotUsername() {
-        return "ojiekcahdp_bomb_bot";
+        return "bot_username";
     }
 
     @Override
     public String getBotToken() {
-        return "5024151526:AAFqMwmMFeVLyxS4E59qXfI1hzlDTjDRWYM";
+        return "token";
     }
 
     @Override
